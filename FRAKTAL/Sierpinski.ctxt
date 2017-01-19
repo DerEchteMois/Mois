@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=ev\ x\ y
+comment1.target=boolean\ mouseDown(java.awt.Event,\ int,\ int)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=g\ a\ b\ c\ level
+comment3.target=void\ drawTriangle(java.awt.Graphics,\ java.awt.Point,\ java.awt.Point,\ java.awt.Point,\ int)
+numComments=4
