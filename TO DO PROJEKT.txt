@@ -1,0 +1,17 @@
+TO DO FÜR DIENSTAG UND DIENSTAG UND DONNERSTAG
+
+OPTISCHE ÄNDERUNGEN:
+*Kompletter Hintergrund
+*Buttons Farbe
+*Spielfeld auf 5x5 erweitern
+*x und 0 ändern
+
+
+AUF GITHUB HOCHLADEN!!!
+
+Text Color mithilfe eines Knopfes ändern:
+https://stackoverflow.com/questions/44316431/how-to-change-text-color-with-a-button-in-java
+
+BUTTON FARBE ÄNDERN:
+
+https://stackoverflow.com/questions/14116093/how-to-set-the-color-of-jbuttons-in-an-array-in-java
