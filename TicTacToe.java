@@ -45,8 +45,10 @@ public class TicTacToe extends JFrame {
         LeoLabel.setOpaque(true);
         
         //Button Tipp
-        Tipp = new JButton("Tipp!");
-        
+        JButton Tipp = new JButton("Tipp!");
+        this.add(Tipp);
+        Tipp.setVisible(true);
+        Tipp.setOpaque(true);
         Tipp.addActionListener(new ActionListener()
         {
             public void actionPerformed(ActionEvent e)
@@ -69,12 +71,11 @@ public class TicTacToe extends JFrame {
         Tipp.setBounds(400, 400, 50, 73);
 
         //addet den Button zum panel/label
-        LeoLabel.add(Tipp);
+        ;
         //fügt label zum applet hinzu
         cp.add(LeoLabel);
         
-        //button reset zum applet hinzufügen
-        cp.add(Reset);
+        
         for (int xk = 0; xk < 4; xk++) {
             for (int yk = 0; yk < 4; yk++) {
                 buttons[xk][yk] = new JButton("");
