@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=LeosProjekt
+comment1.target=TicTacToe(java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=evt
+comment5.target=void\ buttonClicked(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ TippGeben()
+comment7.params=value
+comment7.target=void\ winnerTest(int)
+numComments=8
